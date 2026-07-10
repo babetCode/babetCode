@@ -7,7 +7,7 @@
 </a>
 
 <p align="center">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda,css,django,ffmpeg,githubpages,html,hugo,json,jupyter,latex,markdown,matplotlib,mermaid,netlify,numpy,obs,overleaf,pandas,plotly,polars,powershell,pytest,python,regex,scipy,selenium,sqlite,streamlit,supabase,vscode&theme=light&titles=true" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda,css,django,ffmpeg,githubpages,html,hugo,json,jupyter,latex,markdown,matplotlib,mermaid,netlify,numpy,obs,overleaf,pandas,plotly,polars,powershell,pytest,python,regex,scipy,selenium,sqlite,streamlit,supabase,vscode&theme=light&titles=true&perline=10" />
 </p>
 
 <img
